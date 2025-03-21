@@ -4,37 +4,37 @@
 https://www.btvlive.gov.bd/streams/f5bb2d10-09a2-4b5c-84d1-8cb59c937560/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8  
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", ATN News  
-http://10.200.200.2:8088/203/tracks-v1a1/mono.m3u8  
+http://10.200.200.2:8088/203/tracks-v1a1/index.m3u8  
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/53/2/atn-bangla-logo-png_seeklogo-537053.png", ATN Bangla  
-http://10.200.200.2:8088/202/tracks-v1a1/mono.m3u8  
+http://10.200.200.2:8088/202/tracks-v1a1/index.m3u8  
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://cdn.ekattor.online/contents/themes/public/style/images/logo.png", Ekkator  
-http://10.200.200.2:8088/201/tracks-v1a1/mono.m3u8  
+http://10.200.200.2:8088/201/tracks-v1a1/index.m3u8  
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://150593535.v2.pressablecdn.com/wp-content/uploads/2024/04/channel-i-logo-1-2.png", Channel I  
-http://10.200.200.2:8088/207/tracks-v1a1/mono.m3u8  
+http://10.200.200.2:8088/207/tracks-v1a1/index.m3u8  
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png", Rtv  
-http://10.200.200.2:8088/210/tracks-v1a1/mono.m3u8  
+http://10.200.200.2:8088/210/tracks-v1a1/index.m3u8  
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://maasranga.tv/wp-content/uploads/2023/11/cropped-Logo-for-website-1.jpg", Maasranga  
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8  
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.freekaj.com/assets/images/stock/image/2024/01/14/65a431bf29d6d1705259455.jpg", DBC News  
-http://10.200.200.2:8088/204/tracks-v1a1/mono.m3u8  
+http://10.200.200.2:8088/204/tracks-v1a1/index.m3u8  
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://jamuna.tv/wp-content/themes/jtv-news/img/logo.png", Jamuna TV  
-http://10.200.200.2:8088/209/tracks-v1a1/mono.m3u8  
+http://10.200.200.2:8088/209/tracks-v1a1/index.m3u8  
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Zee_Bangla_logo.png/800px-Zee_Bangla_logo.png", Zee Bangla  
-http://10.200.200.2:8088/301/tracks-v1a1/mono.m3u8  
+http://10.200.200.2:8088/301/tracks-v1a1/index.m3u8  
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Star_Jalsha_logo_2023.png/800px-Star_Jalsha_logo_2023.png", Star Jalsha  
-http://10.200.200.2:8088/302/tracks-v1a1/mono.m3u8  
+http://10.200.200.2:8088/302/tracks-v1a1/index.m3u8  
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://banner2.cleanpng.com/20180623/qf/aazug0foc.webp", Jalsha Movies  
-http://10.200.200.2:8088/303/tracks-v1a1/mono.m3u8  
+http://10.200.200.2:8088/303/tracks-v1a1/index.m3u8  
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://10.200.200.2/assets/images/Colors-Bangla.png", Colors Bangla  
-http://10.200.200.2:8088/304/tracks-v1a1/mono.m3u8
+http://10.200.200.2:8088/304/tracks-v1a1/index.m3u8
