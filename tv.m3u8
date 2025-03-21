@@ -37,4 +37,25 @@ http://10.200.200.2:8088/302/tracks-v1a1/index.m3u8
 http://10.200.200.2:8088/303/tracks-v1a1/index.m3u8  
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://10.200.200.2/assets/images/Colors-Bangla.png", Colors Bangla  
-http://10.200.200.2:8088/304/tracks-v1a1/index.m3u8
+http://10.200.200.2:8088/304/tracks-v1a1/index.m3u8  
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Sony_aath.png", Sony Aath  
+http://10.200.200.2:8088/306/index.m3u8  
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Sony_Max_HD.png", Sony Max  
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8  
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Sony_Max_HD.png", Sony Max (Backup)  
+http://humsab.xyz/IN_SonyMaxHD/tracks-v1a1/index.m3u8  
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Sony_MAX2.png", Sony Max 2  
+https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Sony_MAX2.png  
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/250/-/Sony_MAX2.png", Sony Max 2 (Backup)  
+http://humsab.xyz/IN_S_X2/tracks-v1a1/mono.m3u8  
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Zee_Cinema_logo.png/800px-Zee_Cinema_logo.png", Zee Cinema  
+https://live.drmlive-02.workers.dev/zee/zeecinemahd.m3u8  
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://images.seeklogo.com/logo-png/31/1/star-gold-logo-png_seeklogo-310758.png?v=1956302147727964872", Star Gold  
+http://10.200.200.2:8088/402/index.m3u8
