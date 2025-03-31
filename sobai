@@ -1,1 +1,161 @@
-hdud
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1200px-Bangladesh_Television_Logo.svg.png", BTV HD
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=998
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/4/45/%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A6%A6_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%95.svg", Songsad TV
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=413
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/200px-ATN_News_logo.svg.png", ATN News
+http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_of_ATN_Bangla.svg/360px-Logo_of_ATN_Bangla.svg.png", ATN Bangla
+http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/b/b9/%E0%A6%8F%E0%A6%95%E0%A7%81%E0%A6%B6%E0%A7%87_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8.svg/360px-%E0%A6%8F%E0%A6%95%E0%A7%81%E0%A6%B6%E0%A7%87_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8.svg.png", Ekhushe TV
+http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/480px-Rtv_bangladesh.svg.png", RTV
+http://tv.dugdugilive.com:8080/0ne$ky23/RTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Mohona TV
+https://aynaxpranto.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", SATV
+https://aynaxpranto.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Bangla TV
+http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Bijoy TV 
+https://aynaxpranto.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Boishakhi TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", MY TV
+https://aynaxpranto.vercel.app/api/stream/c0480a4a-f066-4a20-9f7d-73bbd852260f.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808",Maasranga TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Nexus TV
+https://aynaxpranto.vercel.app/api/stream/e64e1c11-1167-43a1-9e0f-995cbf6f7ff9.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Desh TV
+https://aynaxpranto.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Banglavison
+https://aynaxpranto.vercel.app/api/stream/21e75798-3b6a-4214-9d93-b3fecaa4e700.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808",NTV
+http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808",Channel 9
+https://aynaxpranto.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Deepto TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Ekhon TV
+https://aynaxpranto.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Asian TV
+https://aynaxpranto.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Independent TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Channel 24
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Somoy News
+http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", DBC News
+https://aynaxpranto.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808",News 24
+https://aynaxpranto.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808",Jamuna TV
+http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Ekattor TV
+http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Duronto TV
+https://aynaxpranto.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", GTV
+http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Tsports
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Zee Cinema
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=410
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Zee Bangla
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Zee Bangla 4k
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=98881
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Star Jalsha
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Star Jalsha 4k
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=98883
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Jalsha Moives
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=425
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Colors Bangla
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=23306
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Sun Bangla
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=3753
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Star Plus 
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=221
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Star Bhrat
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=199
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Sony TV
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=144
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Sony Max
+http://kst.moonplex.net:8080/CH1/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808",Sony Max 4k
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=98857
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Zee Cinema
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=230
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Star Gold
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=9375
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Star Movie
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=9384
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Sony Pix
+http://kst.moonplex.net:8080/CH8/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Discovery
+http://kst.moonplex.net:8080/CH9/index.m3u8
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Discovery 
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=406
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Animal Planet
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=5249
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", National Geographic 
+https://himelop-pro.top/Telegram-@HimelOP_Official/humtv.m3u8?id=98874
+
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808",9xm
+http://kst.moonplex.net:8080/CH13/index.m3u8
+
+
+
