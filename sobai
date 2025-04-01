@@ -19,49 +19,50 @@ http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Mohona TV
-https://aynaxpranto.vercel.app/api/stream/6662e038-604e-4cdc-87f7-8ec1cdf77a5e.m3u8
+
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", SATV
-https://aynaxpranto.vercel.app/api/stream/d07563b0-7580-4cbd-a7c9-e67535c0164a.m3u8
+
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Bangla TV
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Bijoy TV 
-https://aynaxpranto.vercel.app/api/stream/f7c89459-37bf-4129-904d-33b0a4c0d590.m3u8
+
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Boishakhi TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", MY TV
-https://aynaxpranto.vercel.app/api/stream/c0480a4a-f066-4a20-9f7d-73bbd852260f.m3u8
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNTozNTowMCBBTSZoYXNoX3ZhbHVlPU5RMm5ZMVRQRDlWbURBTkY2Z09WMlE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808",Maasranga TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Nexus TV
-https://aynaxpranto.vercel.app/api/stream/e64e1c11-1167-43a1-9e0f-995cbf6f7ff9.m3u8
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNTozNDowNiBBTSZoYXNoX3ZhbHVlPVdTWU9FSkY0Wk5tNXdBZlBSKzJPcVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Desh TV
-https://aynaxpranto.vercel.app/api/stream/dd8c50e9-5dad-4cb9-9df8-5763e95281ad.m3u8
+
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Banglavison
-https://aynaxpranto.vercel.app/api/stream/21e75798-3b6a-4214-9d93-b3fecaa4e700.m3u8
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMjUgNToyNjo0MiBBTSZoYXNoX3ZhbHVlPUVPUmpGLzkwRCtwRUl4bVdIZG8xM1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808",NTV
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808",Channel 9
-https://aynaxpranto.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8
+http://kst.moonplex.net:8080/CH6/index.m3u8
+
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Deepto TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Ekhon TV
-https://aynaxpranto.vercel.app/api/stream/0579659b-2854-40d1-ad6a-69b70641ad17.m3u8
+http://kst.moonplex.net:8080/CH7/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Asian TV
-https://aynaxpranto.vercel.app/api/stream/4d629b90-cfc2-4426-9eef-62b879efdb02.m3u8
+https://mtlivestream.com/asian/ytlive/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Independent TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
@@ -73,10 +74,10 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", DBC News
-https://aynaxpranto.vercel.app/api/stream/0875f2c8-2043-499b-9472-2872412a6340.m3u8
+
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808",News 24
-https://aynaxpranto.vercel.app/api/stream/2b1a4340-2557-4d57-b77c-657bb30ce0c8.m3u8
+
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808",Jamuna TV
 http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/tracks-v1a1/mono.m3u8
@@ -85,7 +86,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", Duronto TV
-https://aynaxpranto.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
+http://kst.moonplex.net:8080/CH12/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png?v=1956302016822104808", GTV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1/mono.m3u8
