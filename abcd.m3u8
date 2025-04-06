@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title=“Bangla” ,  NAME
-https://jf6.dunyapurkaraja.com:999/hls/skysprem.m3u8?md5=z9DVfd05U3TPznbiEC46gA&expires=1743953771
+http://kst.moonplex.net:8080/CH3/index.m3u8
 #EXTINF:-1 group-title=“Bangla” ,  NAME
 https://x4-cdnnew.newkso.ru/x4-cdn/mono44/mono.m3u8
 #EXTINF:-1 group-title=“Bangla” ,  NAME
